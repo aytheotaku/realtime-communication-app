@@ -16,6 +16,15 @@ The page on route ```/2```  consists of
 **You can visit the swagger docs on route ```/documentation```** 
 
 **Please feel free to visit my Notion blog page where I elaborate on the project and share my thought process that informed its development.** 
+
+## DEMO
+---
+
+https://github.com/aytheotaku/realtime-communication-app/assets/49108697/86e40c05-fb65-46e7-b706-134364d13fdc
+
+
+
+
 # PROJECT SETUP
 
 ### Installation
