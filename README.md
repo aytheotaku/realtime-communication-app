@@ -3,6 +3,8 @@
 
 ## ABOUT
 ---
+You can find the app live on: https://realtimecommunicationapp.onrender.com 
+
 This app makes use of the socket.io package to implement real time communication between clients(the front end) and the server. As shown in the video.
 
 This web app contains two pages. A page on route ```/1``` and a page on route ```2```
