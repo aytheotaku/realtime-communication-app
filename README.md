@@ -20,7 +20,11 @@ The page on route ```/2```  consists of
 ## DEMO
 ---
 
-https://github.com/aytheotaku/realtime-communication-app/assets/49108697/86e40c05-fb65-46e7-b706-134364d13fdc
+
+
+https://github.com/aytheotaku/realtime-communication-app/assets/49108697/719f6142-9ab8-4e55-822c-fde8f9f6ffd2
+
+
 
 
 
