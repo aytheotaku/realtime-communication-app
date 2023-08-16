@@ -17,7 +17,20 @@ The page on route ```/2```  consists of
 
 **You can visit the swagger docs on route ```/documentation```** 
 
-**Please feel free to visit my Notion blog page where I elaborate on the project and share my thought process that informed its development.** 
+**Please feel free to visit my Notion blog page where I elaborate on the project and share my thought process that informed its development.** : https://www.notion.so/A-Collection-of-My-Projects-and-Their-Conceptualization-54c9cd33bdda4a7290b343343fbea3b8 (Real Time Data Communication, Sockets)
+
+## DEMO
+---
+
+
+
+https://github.com/aytheotaku/realtime-communication-app/assets/49108697/719f6142-9ab8-4e55-822c-fde8f9f6ffd2
+
+
+
+
+
+
 # PROJECT SETUP
 
 ### Installation
