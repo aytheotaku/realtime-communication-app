@@ -7,10 +7,11 @@ const router = require('./routes/index')
 const io = new Server(server)
 const swaggerDocUI = require('swagger-ui-express')
 const swaggerDoc = require('./swagger-helper/documentations')
-const port = process.env.port || 3000
 const createError = require('http-errors')
 const morgan = require('morgan')
 
+require('dotenv').config()
+const port = process.env.port
 
 app.use(express.static('public'))
 app.use(morgan('dev'))
