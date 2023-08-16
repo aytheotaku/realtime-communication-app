@@ -17,6 +17,7 @@ app.use(morgan('dev'))
 app.use(router)
 app.use('/documentation', swaggerDocUI.serve)
 app.use('/documentation', swaggerDocUI.setup(swaggerDoc))
+app.set('views', path.join(__dirname, './views'));
 app.set('view engine', 'ejs')
 
 
