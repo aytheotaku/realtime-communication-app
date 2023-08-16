@@ -12,7 +12,7 @@ const createError = require('http-errors')
 const morgan = require('morgan')
 
 require('dotenv').config()
-const port = process.env.port
+const port = process.env.PORT
 
 app.use(express.static('public'))
 app.use(morgan('dev'))
