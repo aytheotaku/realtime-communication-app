@@ -39,8 +39,8 @@ const swaggerDoc = {
 
     servers: [
         {
-            url: `http://localhost:${process.env.port || 3000}`,
-            description: "Local Development Setup"
+            url: `https://rtcapp.ayomideakinbo.live`,
+            description: "Development Setup"
         }
     ],
 
