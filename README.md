@@ -39,7 +39,7 @@ _Follow these steps to setup the project locally on your computer_
 
 1. Clone the repo
 ```
-git clone https://github.com/aytheotaku/zigy-task
+git clone https://github.com/aytheotaku/realtime-communication-app
 ```
 
 2. Install NPM Dependencies 
